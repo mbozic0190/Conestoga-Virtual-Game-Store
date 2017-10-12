@@ -1,0 +1,85 @@
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\ApplicationInsights.config
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\csc.exe
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\csc.exe.config
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\csc.rsp
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\csi.exe
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\csi.exe.config
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\csi.rsp
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.AppContext.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Console.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Diagnostics.Process.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.IO.Compression.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.IO.Pipes.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Security.AccessControl.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Security.Claims.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Threading.Thread.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.ValueTuple.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Xml.XPath.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\vbc.exe
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\vbc.exe.config
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\vbc.rsp
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\Conestoga Virtual Game Store.Tests.dll.config
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\Conestoga Virtual Game Store.Tests.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\Conestoga Virtual Game Store.Tests.pdb
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\Conestoga Virtual Game Store.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\System.Web.Helpers.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\System.Web.Mvc.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\System.Web.Razor.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\System.Web.WebPages.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\System.Web.Optimization.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\EntityFramework.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\Conestoga Virtual Game Store.pdb
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\Conestoga Virtual Game Store.dll.config
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\System.Web.Helpers.xml
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\System.Web.Mvc.xml
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\System.Web.Razor.xml
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\System.Web.WebPages.xml
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\System.Web.Optimization.xml
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\bin\Debug\EntityFramework.xml
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\obj\Debug\Conestoga Virtual Game Store.Tests.csprojResolveAssemblyReference.cache
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\obj\Debug\Conestoga Virtual Game Store.Tests.csproj.CoreCompileInputs.cache
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\obj\Debug\Conestoga Virtual Game Store.Tests.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store.Tests\obj\Debug\Conestoga Virtual Game Store.Tests.pdb

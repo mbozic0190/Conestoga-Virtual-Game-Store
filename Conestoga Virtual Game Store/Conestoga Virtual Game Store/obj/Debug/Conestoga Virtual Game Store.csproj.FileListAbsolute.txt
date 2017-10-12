@@ -88,3 +88,7 @@ E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtu
 E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\obj\Debug\Conestoga Virtual Game Store.csproj.CoreCompileInputs.cache
 E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\obj\Debug\Conestoga Virtual Game Store.dll
 E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\obj\Debug\Conestoga Virtual Game Store.pdb
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\EntityFramework.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\EntityFramework.SqlServer.dll
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\EntityFramework.xml
+E:\School work\PROG3050\Iteration 1\Conestoga Virtual Game Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\EntityFramework.SqlServer.xml
