@@ -20,6 +20,7 @@ namespace Conestoga_Virtual_Game_Store.Models
 
         public int user_id { get; set; }
 
+        [DisplayFormat(DataFormatString = "{0:MM/dd/yyyy}")]
         [Column(TypeName = "date")]
         public DateTime? order_date { get; set; }
 
