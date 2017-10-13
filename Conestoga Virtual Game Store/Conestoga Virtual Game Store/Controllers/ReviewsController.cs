@@ -17,7 +17,10 @@ namespace Conestoga_Virtual_Game_Store.Controllers
         // GET: Reviews
         public ActionResult Index()
         {
-            var reviews = db.reviews.Include(r => r.game_platforms).Include(r => r.user).Include(r => r.user1);
+            //var reviews = db.reviews.Include(r => r.game_platforms).Include(r => r.user).Include(r => r.user1);
+
+            var reviews = db.reviews.Where(a => a.validated_flag == "P").Include(r => r.game_platforms).Include(r => r.user).Include(r => r.user1);
+            
             return View(reviews.ToList());
         }
 
@@ -136,5 +139,75 @@ namespace Conestoga_Virtual_Game_Store.Controllers
             }
             base.Dispose(disposing);
         }
+
+        public ActionResult Accept(int? id)        {
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            review review = db.reviews.Find(id);
+            if (review != null)
+            {
+                string messageToUser = "";
+
+                var query =
+                    from rev in db.reviews
+                    where rev.review_id == id
+                    select rev;
+
+                foreach (review rev in query)
+                {
+                    rev.validated_flag = "A";
+                    messageToUser = rev.review_id.ToString();
+                }
+                
+                try
+                {
+                    db.SaveChanges();
+                    Response.Write("Review " + messageToUser +" Validated");
+                    
+                }
+                catch
+                {
+
+                }               
+
+            }
+            
+            return RedirectToAction("Index");
+        }
+
+        public ActionResult Deny(int? id)
+        {
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            review review = db.reviews.Find(id);
+            if (review != null)
+            {
+                var query =
+                    from rev in db.reviews
+                    where rev.review_id == id
+                    select rev;
+
+                foreach (review rev in query)
+                {
+                    rev.validated_flag = "D";
+                }
+
+                try
+                {
+                    db.SaveChanges();
+                }
+                catch
+                {
+
+                }
+
+            }
+            return RedirectToAction("Index");
+        }
+                
     }
 }

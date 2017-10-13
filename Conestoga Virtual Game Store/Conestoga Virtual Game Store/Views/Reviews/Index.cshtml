@@ -6,6 +6,8 @@
 
 <h2>Index</h2>
 
+
+
 <p>
     @Html.ActionLink("Create New", "Create")
 </p>
@@ -48,8 +50,10 @@
         </td>
         <td>
             @Html.ActionLink("Edit", "Edit", new { id=item.review_id }) |
-            @Html.ActionLink("Details", "Details", new { id=item.review_id }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.review_id })
+            @*@Html.ActionLink("Details", "Details", new { id=item.review_id }) |*@
+            @Html.ActionLink("Accept", "Accept", new { id = item.review_id }) |
+            @Html.ActionLink("Deny", "Deny", new { id = item.review_id }) 
+            @*@Html.ActionLink("Delete", "Delete", new { id=item.review_id })*@
         </td>
     </tr>
 }
