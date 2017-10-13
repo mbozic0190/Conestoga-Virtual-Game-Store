@@ -186,3 +186,97 @@ C:\Users\Kelsey\Documents\PROG3050\CVGS\Conestoga-Virtual-Game-Store\Conestoga V
 C:\Users\Kelsey\Documents\PROG3050\CVGS\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\obj\Debug\Conestoga Virtual Game Store.csproj.CoreCompileInputs.cache
 C:\Users\Kelsey\Documents\PROG3050\CVGS\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\obj\Debug\Conestoga Virtual Game Store.dll
 C:\Users\Kelsey\Documents\PROG3050\CVGS\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\obj\Debug\Conestoga Virtual Game Store.pdb
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\ApplicationInsights.config
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\csc.exe
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\csc.exe.config
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\csc.rsp
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\csi.exe
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\csi.exe.config
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\csi.rsp
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.AppContext.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Collections.Immutable.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Console.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Diagnostics.Process.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.IO.Compression.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.IO.FileSystem.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.IO.Pipes.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Reflection.Metadata.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Security.AccessControl.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Security.Claims.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Security.Principal.Windows.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Threading.Thread.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.ValueTuple.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Xml.XmlDocument.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Xml.XPath.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\vbc.exe
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\vbc.exe.config
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\vbc.rsp
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\VBCSCompiler.exe
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\roslyn\VBCSCompiler.exe.config
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Conestoga Virtual Game Store.dll.config
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Conestoga Virtual Game Store.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Conestoga Virtual Game Store.pdb
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Antlr3.Runtime.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\EntityFramework.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\EntityFramework.SqlServer.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Microsoft.AI.Agent.Intercept.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Microsoft.AI.DependencyCollector.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Microsoft.AI.Web.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Microsoft.AI.WindowsServer.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Microsoft.ApplicationInsights.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Microsoft.Web.Infrastructure.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Newtonsoft.Json.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\System.Web.Helpers.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\System.Web.Mvc.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\System.Web.Optimization.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\System.Web.Razor.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\System.Web.WebPages.Deployment.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\System.Web.WebPages.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\System.Web.WebPages.Razor.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\WebGrease.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\EntityFramework.xml
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\EntityFramework.SqlServer.xml
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\System.Web.Helpers.xml
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\System.Web.Mvc.xml
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\System.Web.Optimization.xml
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\System.Web.Razor.xml
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\System.Web.WebPages.xml
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\System.Web.WebPages.Deployment.xml
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\System.Web.WebPages.Razor.xml
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Antlr3.Runtime.pdb
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Newtonsoft.Json.xml
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Microsoft.ApplicationInsights.xml
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Microsoft.AI.DependencyCollector.xml
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Microsoft.AI.WindowsServer.xml
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\bin\Microsoft.AI.Web.xml
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\obj\Debug\Conestoga Virtual Game Store.csprojResolveAssemblyReference.cache
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\obj\Debug\Conestoga Virtual Game Store.csproj.CoreCompileInputs.cache
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\obj\Debug\Conestoga Virtual Game Store.dll
+E:\P3050_ENTERPRISE\Conestoga-Virtual-Game-Store\Conestoga Virtual Game Store\Conestoga Virtual Game Store\obj\Debug\Conestoga Virtual Game Store.pdb

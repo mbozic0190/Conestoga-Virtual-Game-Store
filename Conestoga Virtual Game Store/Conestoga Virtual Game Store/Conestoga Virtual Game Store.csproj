@@ -151,6 +151,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\EmployeeDashboardController.cs" />
+    <Compile Include="Controllers\EventsController.cs" />
     <Compile Include="Controllers\GamesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\PlatformsController.cs" />
@@ -228,6 +229,11 @@
     <Content Include="Views\Games\Index.cshtml" />
     <Content Include="Views\EmployeeDashboard\Index.cshtml" />
     <Content Include="Views\Reports\Index.cshtml" />
+    <Content Include="Views\Events\Create.cshtml" />
+    <Content Include="Views\Events\Delete.cshtml" />
+    <Content Include="Views\Events\Details.cshtml" />
+    <Content Include="Views\Events\Edit.cshtml" />
+    <Content Include="Views\Events\Index.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
