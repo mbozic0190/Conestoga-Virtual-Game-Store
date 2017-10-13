@@ -132,5 +132,23 @@ namespace Conestoga_Virtual_Game_Store.Controllers
             }
             base.Dispose(disposing);
         }
+
+        [HttpPost, ActionName("Search")]
+        public ActionResult Search(string SearchName)
+        {
+            string criteria = SearchName;
+
+            if(criteria != "")
+            {
+                var searchGames = db.games.Where(a => a.game_name.Contains(criteria)).Include(g => g.category).Include(g => g.developer);
+                return View("index", searchGames.ToList());
+            }
+            else
+            {
+                var games = db.games.Include(g => g.category).Include(g => g.developer);
+                return View("index", games.ToList());
+            }
+
+        }
     }
 }
