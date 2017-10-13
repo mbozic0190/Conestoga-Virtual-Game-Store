@@ -17,7 +17,7 @@ namespace Conestoga_Virtual_Game_Store.Controllers
         // GET: Events
         public ActionResult Index()
         {
-            var events = db.events.Include(_ => _.user);
+            var events = db.events.Include(_ => _.user).Where(a => a.event_date >= DateTime.Today);
             return View(events.ToList());
         }
 
@@ -39,7 +39,7 @@ namespace Conestoga_Virtual_Game_Store.Controllers
         // GET: Events/Create
         public ActionResult Create()
         {
-            ViewBag.created_by = new SelectList(db.users, "user_id", "employee_flag");
+            ViewBag.created_by = 1;
             return View();
         }
 
@@ -52,12 +52,13 @@ namespace Conestoga_Virtual_Game_Store.Controllers
         {
             if (ModelState.IsValid)
             {
+                _event.created_by = 1;
                 db.events.Add(_event);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
 
-            ViewBag.created_by = new SelectList(db.users, "user_id", "employee_flag", _event.created_by);
+            ViewBag.created_by = 1;
             return View(_event);
         }
 
@@ -73,7 +74,7 @@ namespace Conestoga_Virtual_Game_Store.Controllers
             {
                 return HttpNotFound();
             }
-            ViewBag.created_by = new SelectList(db.users, "user_id", "employee_flag", _event.created_by);
+            ViewBag.created_by = 1;
             return View(_event);
         }
 
@@ -86,11 +87,12 @@ namespace Conestoga_Virtual_Game_Store.Controllers
         {
             if (ModelState.IsValid)
             {
+                _event.created_by = 1;
                 db.Entry(_event).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-            ViewBag.created_by = new SelectList(db.users, "user_id", "employee_flag", _event.created_by);
+            ViewBag.created_by = 1;
             return View(_event);
         }
 

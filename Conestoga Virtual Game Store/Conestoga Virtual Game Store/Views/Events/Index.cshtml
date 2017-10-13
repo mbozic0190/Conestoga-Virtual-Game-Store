@@ -1,10 +1,10 @@
 ﻿@model IEnumerable<Conestoga_Virtual_Game_Store.Models._event>
 
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Upcoming Events";
 }
 
-<h2>Index</h2>
+<h2>Upcomming Events</h2>
 
 <p>
     @Html.ActionLink("Create New", "Create")
@@ -12,33 +12,21 @@
 <table class="table">
     <tr>
         <th>
-            @Html.DisplayNameFor(model => model.user.employee_flag)
+            <h3>@Html.DisplayNameFor(model => model.event_date)</h3>
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.event_date)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.event_name)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.event_description)
+            <h3>@Html.DisplayNameFor(model => model.event_name)</h3>
         </th>
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
+@foreach (var item in Model.OrderBy(i => i.event_date)) {
     <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.user.employee_flag)
-        </td>
         <td>
             @Html.DisplayFor(modelItem => item.event_date)
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.event_name)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.event_description)
         </td>
         <td>
             @Html.ActionLink("Edit", "Edit", new { id=item.event_id }) |
