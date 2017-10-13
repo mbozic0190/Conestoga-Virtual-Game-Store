@@ -9,6 +9,13 @@
 <p>
     @Html.ActionLink("Add New Game", "Create")
 </p>
+@using (Html.BeginForm("Search", "Games"))
+{
+    @*@Html.TextBox("TextBoxName")*@
+    <input id="SearchName" name="SearchName" type="text" value="" />
+    <input type="submit" value="Create" />
+
+}  
 <table class="table">
     <tr>
         <th>
@@ -53,7 +60,7 @@
             @Html.DisplayFor(modelItem => item.developer.developer_name)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.releaseDate)
+            @Html.DisplayFor(modelItem => item.release_date)
         </td>
         <td>
             $@Html.DisplayFor(modelItem => item.price)

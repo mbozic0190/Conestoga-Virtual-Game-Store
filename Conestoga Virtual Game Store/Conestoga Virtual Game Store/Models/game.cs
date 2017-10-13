@@ -24,21 +24,10 @@ namespace Conestoga_Virtual_Game_Store.Models
         [Column(TypeName = "text")]
         public string description { get; set; }
 
+        [DisplayFormat(DataFormatString = "{0:MM/dd/yyyy}")]
         [Column(TypeName = "date")]
         public DateTime? release_date
-        {
-            get
-            {
-                return DateTime.Parse(releaseDate);
-            }
-            set
-            {
-                DateTime tempDateTime = value ?? new DateTime();
-                releaseDate = tempDateTime.ToString("MM dd yyyy");
-            }
-        }
-
-        public string releaseDate;
+        { get; set; }
 
         [Column(TypeName = "money")]
         public decimal price { get; set; }
