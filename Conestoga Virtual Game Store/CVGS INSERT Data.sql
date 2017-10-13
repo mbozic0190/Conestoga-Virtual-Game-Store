@@ -31,11 +31,11 @@ INSERT INTO games VALUES
 INSERT INTO games VALUES
 	('Overwatch', 'Overwatch is a team-based multiplayer online first-person shooter video game developed and published by Blizzard Entertainment.', '2016-05-24', 59.99, 2, 1);
 INSERT INTO games VALUES
-	('The Witcher 3', 'The Witcher® 3: Wild Hunt is a story-driven, next-generation open world role-playing game, set in a visually stunning fantasy universe, full of meaningful choices and impactful consequences. You play as Geralt of Rivia, a monster hunter tasked with finding a child from an ancient prophecy.', '2015-05-19', 39.99, 3, 5);
+	('The Witcher 3', 'The Witcher® 3: Wild Hunt is a story-driven, next-generation open world role-playing game, set in a visually stunning fantasy universe, full of meaningful choices and impactful consequences. You play as Geralt of Rivia, a monster hunter tasked with finding a child from an ancient prophecy.', '2015-05-19', 39.99, 3, 2);
 INSERT INTO games VALUES
-	('Destiny 2', 'Players assume the role of a Guardian, protectors of Earths last safe city as they wield a power called Light to protect the Last City from different alien races.', '2017-10-24', 59.99, 2, 5);
+	('Destiny 2', 'Players assume the role of a Guardian, protectors of Earths last safe city as they wield a power called Light to protect the Last City from different alien races.', '2017-10-24', 59.99, 2, 3);
 INSERT INTO games VALUES
-	('Middle-Earth: Shadow of War', ' The player continues the story of the ranger Talion and the spirit of the elf lord Celebrimbor, who shares Talions body, as they forge a new Ring of Power to amass an army to fight against Sauron.', '2017-10-10', 59.99, 1, 5);
+	('Middle-Earth: Shadow of War', ' The player continues the story of the ranger Talion and the spirit of the elf lord Celebrimbor, who shares Talions body, as they forge a new Ring of Power to amass an army to fight against Sauron.', '2017-10-10', 59.99, 1, 4);
 
 INSERT INTO game_platforms VALUES
 	(1, 1);
